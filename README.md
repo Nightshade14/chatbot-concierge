@@ -2,7 +2,8 @@
 
 - Chatbot UI interface
 - Hosted on AWS
-- AWS (DynamoDB, OpenSearch, S3, Simple Queue Service (SQS), Simple Email Service (SES), Lambda, Lex) The chatbot acts a hotel concierge and books your dining requests.
+
+- AWS (DynamoDB, OpenSearch, S3, Simple Queue Service (SQS), Simple Email Service (SES), Lambda, Lex)
 
 The chatbot acts a hotel concierge and books your dining requests.
 
